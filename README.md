@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myilmazturk
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small projects with python
-- 📫 How to reach me with e-mail
+- 📫 Reach me by email
 
 <!---
 myilmazturk/myilmazturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
